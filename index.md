@@ -30,7 +30,7 @@ Remember when i said there were multiple different erors and error fixes yeah th
 
 <h2>EXAMPLE:</h2>
 
-<img src="syntax.png">
+ ![EXAMPLE  #1](images/syntax.png "Syntax error")
 
 Another error that could be petty tricky when it comes to trouble shooting or debugging is logical errors.
 
