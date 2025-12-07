@@ -60,7 +60,7 @@ A user error is when the user makes a mistakes inputting or typing in the wrong 
 
 <h2>EXAMPLE:</h2>
 
- ![EXAMPLE  #4](images/user.png "user error")
+ ![EXAMPLE  #4](images/User.png "user error")
 
 so basically you typed in the wrong thing skill issue we have all been there.
 
