@@ -40,7 +40,7 @@ Logical errors occur when you apply incorrectlogic to your program and get an un
 
 <h2>EXAMPLE:</h2>
 
-<img src="logic.png">
+ ![EXAMPLE  #2](images/logic.png "logical error")
 
 One of the more inteesting ones are Runtime errors.
 
@@ -50,7 +50,7 @@ A Runtime eror is when your code stops at an eror and does not register as a syn
 
 <h2>EXAMPLE>
 
-<img src="runtime.png">
+ ![EXAMPLE  #3](images/runtime.png "runtime error")
 
 Themost self explanitory and kind of funny ones are user errors.
 
@@ -60,7 +60,7 @@ A user error is when the user makes a mistakes inputting or typing in the wrong 
 
 <h2>EXAMPLE:</h2>
 
-<img src="user.png">
+ ![EXAMPLE  #4](images/user.png "user error")
 
 so basically you typed in the wrong thing skill issue we have all been there.
 
